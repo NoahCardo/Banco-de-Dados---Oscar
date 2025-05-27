@@ -191,23 +191,21 @@ SELECT COUNT(*) FROM indicados_ao_oscar WHERE nome_do_filme = 'Central do Brasil
 
 R: Três filmes foram incluídos ao banco, sendo estes...:
 
+---
+
 - 🌳 "Princesa Mononoke" (1997) – Dirigido por Hayao Miyazaki e Produzido pelo Studio Ghibli;
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d1MGpseTZlcWVoYWMzdWNtcGpzY3lsZnliZDBibW5uMW56ZHJkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8aA3w9pt0duIE/giphy.gif" height="250">
-</div>
+
 
 - 👻 "Colorful" (2010) – Dirigido por Keiichi Hara e Produzido pelo Estúdio Sunrise;
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d1MGpseTZlcWVoYWMzdWNtcGpzY3lsZnliZDBibW5uMW56ZHJkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8aA3w9pt0duIE/giphy.gif" height="250">
-</div>
+
 
 - 🫴🏽 "Fale Comigo" (2022) – Dirigido por Danny e Michael Philippou.
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d1MGpseTZlcWVoYWMzdWNtcGpzY3lsZnliZDBibW5uMW56ZHJkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8aA3w9pt0duIE/giphy.gif" height="250">
-</div>
+
+
+---
 
 Q:
 ```sql
