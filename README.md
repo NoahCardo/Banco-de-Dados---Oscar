@@ -299,6 +299,6 @@ WHERE
 
 ---
 
-## 🐬 Arquivo .sql Citado: [Banco de Dados em MySQL - Indicados ao Oscar](./IndicadosAoOscar2025.sql)
+## 🐬 Arquivo .sql Citado: [Banco de Dados em MySQL - Indicados ao Oscar](./indicados_ao_oscar.sql)
 
 ---
