@@ -195,15 +195,9 @@ R: Três filmes foram incluídos ao banco, sendo estes...:
 
 - 🌳 "Princesa Mononoke" (1997) – Dirigido por Hayao Miyazaki e Produzido pelo Studio Ghibli;
 
-![Capa do Filme "Princesa Mononoke"](./Princesa_Mononoke.jpg)
-
 - 🌈 "Colorful" (2010) – Dirigido por Keiichi Hara e Produzido pelo Estúdio Sunrise;
 
-![Capa do Filme "Colorful"](./Colorful.jpg)
-
-- 🫴🏽 "Fale Comigo" (2022) – Dirigido por Danny e Michael Philippou.
-
-![Capa do Filme "Fale Comigo"](./Fale_Comigo.jpg)
+- 👻 "Fale Comigo" (2022) – Dirigido por Danny e Michael Philippou.
 
 ---
 
